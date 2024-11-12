@@ -1,0 +1,12 @@
+name: env_dependencies
+channels:
+- conda-forge
+dependencies:
+- python=3.12.5
+- matplotlib=3.9.2
+- pandas=2.2.2
+- scikit-learn=1.5.1
+- numpy=1.26.4
+- jupyter
+
+prefix: /opt/conda

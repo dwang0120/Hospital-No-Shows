@@ -12,3 +12,5 @@ Dependencies:
 - jupyter
 
 A yaml file has been provided for your convenience here: [environment.yml](src/dependencies.yml)
+
+[Link to the dataset from Kaggle](https://www.kaggle.com/datasets/samuelotiattakorah/healthcare-no-show-appointment-data)
